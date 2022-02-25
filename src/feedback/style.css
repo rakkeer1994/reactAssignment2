@@ -1,0 +1,62 @@
+.formDiv{
+    width: 40vw;
+    height: 50vh;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: turquoise;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.body{
+   text-align: center;
+   position: absolute;
+   left: 30%;
+   top: 10%; 
+   direction: block;
+}
+
+input{
+    width: 20vw;
+    height: 5vh;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+span{
+    font-size: 1.6rem;
+}
+
+button{
+    width: 10vw;
+    height: 5vh;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: blue ;
+}
+
+.showDiv{
+    width: 20vw;
+    height: 10vh;
+    border: 1px solid lightcoral;
+}
+
+.displyBlock{
+display: flex;
+margin: 50px;
+width: 50%;
+margin-left: -300px;
+}
+
+.displayEmp{
+width: 25vw;
+height: 12vh;
+background-color: darkmagenta;
+color: white;
+border-radius: 5px;
+margin: 10px;
+padding-top: 10px;
+}
